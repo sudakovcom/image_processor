@@ -1,6 +1,6 @@
 # Image processor
 
-An application for applying different fulters for .bmp pictires.
+An application writen on C++ for applying different fulters for .bmp pictures.
 
 ### instructions:
 
