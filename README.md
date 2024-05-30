@@ -1,7 +1,8 @@
-# image_processor
+# Image processor
 
+An application for applying different fulters for .bmp pictires.
 
-instructions:
+### instructions:
 
 to apply filter:
 
